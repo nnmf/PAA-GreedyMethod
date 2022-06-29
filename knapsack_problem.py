@@ -66,5 +66,5 @@ def knapsackProblemEscolha():
     else: print('opção inexistente!')
 
     ##https://www.youtube.com/watch?v=oTTzNMHM05I
-
+    ##https://www.sanfoundry.com/python-program-solve-fractional-knapsack-problem-using-greedy-algorithm/
 
