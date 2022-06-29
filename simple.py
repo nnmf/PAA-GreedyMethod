@@ -8,7 +8,7 @@ def simpleOne():
     for i in range(len(seq)):
         if x > seq[i]:
             x=seq[i]
-    print("A locomoção mais rápida é: ", x)
+    print("A locomoção mais rápida é: ", x, "horas")
 
     ##https://www.youtube.com/watch?v=ARvQcqJ_-NY
 
