@@ -2,13 +2,13 @@
 
 ##https://www.youtube.com/watch?v=ARvQcqJ_-NY
 def simpleOne():
-    print("Bicicleta: 300h\nCarro: 150h\nTrem-bala: 50h\nAvião: 5h\n")
+    print("Bicicleta: 300h\nCarro: 50h\nTrem-bala: 10h\nAvião: 5h\n")
     seq = [300, 150, 50, 5]
     x = 300
     for i in range(len(seq)):
         if x > seq[i]:
             x=seq[i]
-    print(x)
+    print("A locomoção mais rápida é: ", x)
 
     ##https://www.youtube.com/watch?v=ARvQcqJ_-NY
 
